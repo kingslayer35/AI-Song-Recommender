@@ -95,12 +95,6 @@ AI-Powered Song Recommender is a production-ready Flask web application that bri
 AI-Song-Recommender/
 ├── 📁 assets/
 │   └── 📷 screenshots/        # Demo images
-├── 📁 docs/                   # Comprehensive documentation
-│   ├── 📄 IMPROVEMENTS.md     # Technical changes & upgrades
-│   ├── 📄 RESUME_FINAL.md     # 5 resume options + STAR method
-│   ├── 📄 RESUME_DESCRIPTIONS.md
-│   ├── 📄 SETUP_INSTRUCTIONS.md
-│   └── 📄 SUMMARY.md          # Project overview
 ├── 📁 static/
 │   ├── 🎵 audio/              # Generated audio files
 │   └── 📷 uploads/            # Temporary image storage
