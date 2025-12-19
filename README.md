@@ -1,7 +1,7 @@
 # 🎵 Image Song Recommender
 
 <div align="center">
-  <img src="static/uploads/demo.png" width="600" alt="Image Song Recommender Interface">
+  <img src="assets/screenshots/demo.png" width="600" alt="Image Song Recommender Interface">
   
   **Transform images into personalized music experiences with AI-powered song recommendations and custom audio generation**
   
